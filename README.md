@@ -1,4 +1,4 @@
-# Fullperm sounds for Secondlife
+# Fullperm sounds for Secondlife & OpenSim
 
 https://freesound.org
 
